@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoleGun&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LKDenchin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm LKDenchin!
 - “現實與夢想只差一步之遙”
