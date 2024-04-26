@@ -3,8 +3,6 @@
 ### Hi there 👋 I'm LKDenchin!
 - “現實與夢想只差一步之遙”
 
-<img src="https://i.niupic.com/images/2024/01/12/fb23.png" width="30%" height="auto"><img src="https://i.niupic.com/images/2024/01/12/fb22.jpg" width="30%" height="auto">
-
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
