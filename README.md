@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LKDenchin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-<!-- GitHub 数据统计 -->
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LKDenchin&hide_title=true&hide_border=true&theme=buefy" /><br>
 
 ### Hi there 👋 I'm LKDenchin!
 - “現實與夢想只差一步之遙”
+
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LKDenchin&hide_title=true&hide_border=true&theme=buefy" /><br>
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
