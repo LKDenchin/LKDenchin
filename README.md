@@ -9,13 +9,20 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
-<img align="right" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LKDenchin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### 📱 Devices
 [![Xiaomi 6X](https://img.shields.io/badge/Xiaomi%206X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/a/h/6181.html)
 ![Redmi K40](https://img.shields.io/badge/Redmi%20K40-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook%20Pro%2015-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![RedmiNote 11T Pro](https://img.shields.io/badge/RedmiNote%2011T%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python              ████████████░░░░░░  70 % 
+Java                ███░░░░░░░░░░░░░░░  12 % 
+C                   ██░░░░░░░░░░░░░░░░  09 % 
+Markdown            ██░░░░░░░░░░░░░░░░  08 % 
 
 
 
