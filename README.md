@@ -1,4 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LKDenchin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<!-- GitHub 数据统计 -->
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LKDenchin&hide_title=true&hide_border=true&theme=buefy" /><br>
 
 ### Hi there 👋 I'm LKDenchin!
 - “現實與夢想只差一步之遙”
@@ -15,5 +17,4 @@
 ![RedmiNote 11T Pro](https://img.shields.io/badge/RedmiNote%2011T%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
 
-<!-- GitHub 数据统计 -->
-<img height="100px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LKDenchin&hide_title=true&hide_border=true&theme=buefy" /><br>
+
