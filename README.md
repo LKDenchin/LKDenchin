@@ -16,6 +16,7 @@
 ![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook%20Pro%2015-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![RedmiNote 11T Pro](https://img.shields.io/badge/RedmiNote%2011T%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
+```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
