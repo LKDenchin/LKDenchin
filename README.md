@@ -12,6 +12,7 @@
 [![Xiaomi 6X](https://img.shields.io/badge/Xiaomi%206X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/a/h/6181.html)
 ![Redmi K40](https://img.shields.io/badge/Redmi%20K40-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook%20Pro%2015-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![RedmiNote 11T Pro](https://img.shields.io/badge/RedmiNote%2011T%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
 
 <!-- GitHub 数据统计 -->
