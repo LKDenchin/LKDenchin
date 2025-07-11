@@ -13,7 +13,7 @@
 
 > "現實與夢想只差一步之遙"
 
-> "eality and dreams are just one step away."
+> "Reality and dreams are just one step away."
 
 ---
 
