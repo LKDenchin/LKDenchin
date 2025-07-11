@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LKDenchin&include_all_commits=true&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKDenchin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 <div align="center">
@@ -12,9 +11,9 @@
 
 ### 👋 Hello, I'm LKDenchin!
 
-> "现实与梦想只差一步之遥"
+> "現實與夢想只差一步之遙"
 
-A passionate developer who loves coding and exploring new technologies. I enjoy working on projects that challenge me and help me grow as a developer.
+> "eality and dreams are just one step away."
 
 ---
 
@@ -46,6 +45,7 @@ A passionate developer who loves coding and exploring new technologies. I enjoy 
 **Devices**
 
 ![Xiaomi 6X](https://img.shields.io/badge/Xiaomi_6X-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![Xiaomi 15](https://img.shields.io/badge/Xiaomi_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![Redmi K40](https://img.shields.io/badge/Redmi_K40-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook_Pro_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 
