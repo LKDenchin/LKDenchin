@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LKDenchin&include_all_commits=true&show_icons=true&theme=radical&count_private=true&hide_border=true%22%20alt=%22Stats%22%20width=%2248%" />
-</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LKDenchin&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/LKDenchin?label=Followers&style=social" alt="Followers" />
+
 </div>
 
 ---
@@ -15,13 +11,16 @@
 
 > "Reality and dreams are just one step away."
 
+- Lover of OSU!
+- SCNUer
+- Cpp developer
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-Cpp-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
@@ -48,14 +47,3 @@
 ![Xiaomi 15](https://img.shields.io/badge/Xiaomi_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![Redmi K40](https://img.shields.io/badge/Redmi_K40-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook_Pro_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-
----
-
-### 📊 Weekly Development Breakdown
-
-```text
-C            ███████████░░░░░░░░░░   53% 
-Python       ███████░░░░░░░░░░░░░░   28% 
-Vue          ████░░░░░░░░░░░░░░░░░   10%
-Java         ██░░░░░░░░░░░░░░░░░░░   6%
-Other        █░░░░░░░░░░░░░░░░░░░░   3%
