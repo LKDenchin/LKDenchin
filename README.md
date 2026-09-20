@@ -46,4 +46,4 @@
 ![Xiaomi 6X](https://img.shields.io/badge/Xiaomi_6X-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![Xiaomi 15](https://img.shields.io/badge/Xiaomi_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 ![Redmi K40](https://img.shields.io/badge/Redmi_K40-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![RedmiBook Pro 15](https://img.shields.io/badge/RedmiBook_Pro_15-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![ThinkPad E14 Gen6](https://img.shields.io/badge/ThinkPad_E14_Gen6-b30000?style=flat-square&logo=lenovo&logoColor=white)
